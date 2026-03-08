@@ -1,4 +1,4 @@
-﻿*, *::before, *::after { margin:0; padding:0; box-sizing:border-box; }
+*, *::before, *::after { margin:0; padding:0; box-sizing:border-box; }
 html, body, #root {
   width:100%; min-height:100vh; background:#050a14; color:#c8d6e5;
   font-family:'SF Mono','JetBrains Mono','Fira Code',monospace;
